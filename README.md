@@ -1,4 +1,4 @@
 # my_repo
 My first repository.
 <br>
-Hello World.
+Hello World. This is GitHub.
